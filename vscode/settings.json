@@ -1,0 +1,38 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.activityBar.location": "top",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.autoSave": "afterDelay",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "git.enableSmartCommit": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.stickyScroll.enabled": false,
+    "php.executables": {
+        
+    },
+    "window.customTitleBarVisibility": "auto",
+    "windows.titlebarStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "remote.SSH.remotePlatform": {
+        "192.168.0.140": "linux"
+    },
+}
